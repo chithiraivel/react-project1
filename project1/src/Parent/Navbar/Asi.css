@@ -1,0 +1,13 @@
+.asi{
+    margin-top: 100px;
+    float: left;
+    margin-left: 15px;
+    overflow:scroll;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+   
+}
+.asi p:hover{
+    background-color:gray;
+}
